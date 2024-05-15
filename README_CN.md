@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ```bash
 OPENAI_KEY = "Your OPENAI Key"
 SD_API_KEY = "Your Stable Diffusion API Key"
-```bash
+```
 # 运行项目
 要启动AI-WordCards项目，请在终端中运行以下命令：
 ```bash
