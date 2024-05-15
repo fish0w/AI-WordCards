@@ -21,7 +21,12 @@ cd AI-WordCards
 ```bash
 pip install -r requirements.txt
 ```
-
+4. Rename config_.py and fill in the Key.
+Rename config_.py to config.py, open the config.py file, and replace "Your OPENAI Key" and "Your Stable Diffusion API Key" in the following content with your actual OpenAI and Stable Diffusion API keys:
+```bash
+OPENAI_KEY = "Your OPENAI Key" 
+SD_API_KEY = "Your Stable Diffusion API Key"
+```
 ## Running the Project
 
 To start the AI-WordCards project, run the following command in the terminal:
