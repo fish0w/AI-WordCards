@@ -4,17 +4,17 @@
 To install AI-WordCards, follow these steps:
 
 # Clone the GitHub repository:
-``git clone https://github.com/fish0w/AI-WordCards.git``
+```git clone https://github.com/fish0w/AI-WordCards.git```
 
 #Navigate into the project directory:
-``cd AI-WordCards``
+```cd AI-WordCards```
 
 #Install the project dependencies using the requirements.txt file:
-``pip install -r requirements.txt``
+```pip install -r requirements.txt```
 
 #Running the Project
 To start the AI-WordCards project, run the following command in the terminal:
 
-``streamlit run word_card``
+```streamlit run word_card```
 
 This command will launch the project and you can access the application through your web browser. Enjoy exploring and learning with AI-WordCards!
