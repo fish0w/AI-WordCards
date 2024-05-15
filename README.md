@@ -40,8 +40,5 @@ This command will launch the project and you can access the application through 
 ![Alt Text](https://i.imgur.com/criFtxg.jpg)
 
 ## few Examples:
-<p align="center">
-  <img src="https://imgur.com/L11jrvt.jpg" width="45%" style="display: inline-block;">
-  <img src="https://imgur.com/7NdHC6H.jpg" width="45%" style="display: inline-block;">
-</p>
 ![Alt Text](https://imgur.com/L11jrvt.jpg)  ![Alt Text](https://imgur.com/7NdHC6H.jpg)  ![Alt Text](https://imgur.com/1H8RV65.jpg)
+![Alt Text](https://imgur.com/HNTUwtH) ![Alt Text](https://imgur.com/HAjn85Z) ![Alt Text](https://imgur.com/undefined)
