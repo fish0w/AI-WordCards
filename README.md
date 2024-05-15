@@ -41,7 +41,7 @@ This command will launch the project and you can access the application through 
 
 ## few Examples:
 <p align="center">
-  <img src="[https://example.com/image1.png](https://imgur.com/L11jrvt.jpg)" width="45%" style="display: inline-block;">
-  <img src="[https://example.com/image2.png](https://imgur.com/7NdHC6H.jpg)" width="45%" style="display: inline-block;">
+  <img src="https://imgur.com/L11jrvt.jpg" width="45%" style="display: inline-block;">
+  <img src="https://imgur.com/7NdHC6H.jpg" width="45%" style="display: inline-block;">
 </p>
 ![Alt Text](https://imgur.com/L11jrvt.jpg)  ![Alt Text](https://imgur.com/7NdHC6H.jpg)  ![Alt Text](https://imgur.com/1H8RV65.jpg)
