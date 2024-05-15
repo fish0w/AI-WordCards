@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "hello"
+msgstr "你好"
+
+msgid "click_to_upload"
+msgstr "点击上传文件"
+
+msgid "title"
+msgstr "单词卡片生成器"
+
+msgid "Enter word/words list"
+msgstr "输入单词/单词列"
+
+
+msgid "Start Making Sentence"
+msgstr "开始造句"
+
+msgid "restart"
+msgstr "重新开始"
+
+msgid "no more 20"
+msgstr "单词数量请勿超过20个"
+
+msgid "draw_warning_info"
+msgstr "图片描述中可能存在不被系统允许的负面描述，请仔细检查修改后重试。如果多次出现，请尝试简化描述内容，去除非必要的语句"
+
+msgid "create picture"
+msgstr "生成图片"
+
+msgid "create card"
+msgstr "生成单词卡片"
+
+msgid "text color"
+msgstr "文字颜色"
+
+msgid "text bg_color"
+msgstr "文字背景颜色"
+
+msgid "text area"
+msgstr "文字区"
+
+msgid "pic area"
+msgstr "图片区"
+
+msgid "download"
+msgstr "下载"
+
+msgid "delete"
+msgstr "删除"
+
+msgid "char per line"
+msgstr "每行字符数"
+
+msgid "input info"
+msgstr"输入一个单词，或者多个单词（每行一个）"

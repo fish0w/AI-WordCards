@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "hello"
+msgstr "こんにちは"
+
+msgid "click_to_upload"
+msgstr "アップロードするためにクリックしてください"
+
+msgid "title"
+msgstr "単語カードジェネレータ"
+
+msgid "Enter word/words list"
+msgstr "単語/単語列を入力する"
+
+
+msgid "Start Making Sentence"
+msgstr "文章作成を開始する"
+
+msgid "restart"
+msgstr "再スタート"
+
+msgid "no more 20"
+msgstr "単語の数は20個を超えないでください。"
+
+
+msgid "create picture"
+msgstr "画像を生成する"
+
+msgid "create card"
+msgstr "単語カードを生成する"
+
+msgid "draw_warning_info"
+msgstr "画像の説明には、システムが許可しない否定的な説明が含まれている可能性があります。詳しくチェックして修正した後、再試行してください。何度も発生する場合は、説明を簡素化し、不必要な文を削除してみてください。"
+
+msgid "text color"
+msgstr "テキストの色"
+
+msgid "text bg_color"
+msgstr "テキストの背景色"
+
+msgid "text area"
+msgstr "テキストエリア"
+
+msgid "pic area"
+msgstr "画像エリア"
+
+msgid "download"
+msgstr "ダウンロード"
+
+msgid "delete"
+msgstr "削除"
+
+msgid "char per line"
+msgstr "1行あたりの文字数"
+
+msgid "input info"
+msgstr"1つの単語、または複数の単語を入力してください（1行に1つずつ） "

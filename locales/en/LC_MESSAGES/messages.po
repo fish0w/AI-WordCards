@@ -1,0 +1,55 @@
+msgid "hello"
+msgstr "Hello"
+
+msgid "click_to_upload"
+msgstr "Click to Upload File"
+
+
+msgid "title"
+msgstr "GPT-WordCard"
+
+msgid "Enter word/words list"
+msgstr "Enter word/words list"
+
+msgid "Start Making Sentence"
+msgstr "Start Making Sentence"
+
+msgid "restart"
+msgstr "Restart"
+
+msgid "no more 20"
+msgstr "Please do not exceed 20 words"
+
+
+msgid "create picture"
+msgstr "Create Picture"
+
+msgid "create card"
+msgstr "Create WordCard"
+
+msgid "draw_warning_info"
+msgstr  "The image description may contain negative descriptions that are not allowed by the system. Please carefully check and modify before trying again. If it happens multiple times, try simplifying the description and removing unnecessary sentences."
+
+msgid "text color"
+msgstr "Text Color"
+
+msgid  "text bg_color"
+msgstr "Text Bg_color"
+
+msgid "text area"
+msgstr "Text Area"
+
+msgid "pic area"
+msgstr "Picture Area"
+
+msgid "download"
+msgstr "Download"
+
+msgid "delete"
+msgstr "Delete"
+
+msgid "char per line"
+msgstr "Number of characters per line"
+
+msgid "input info"
+msgstr"Enter a single word or multiple words (one per line) "
