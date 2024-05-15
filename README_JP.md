@@ -1,0 +1,20 @@
+AI-WordCardsは、OpenAIとStableDiffusionの力を活用して、教育的で魅力的なワードカードを作成する革新的なプロジェクトです。このプロジェクトはフロントエンドにStreamlitを使用し、直感的でインタラクティブ、ユーザーフレンドリーなインターフェースを提供します。AI-WordCardsは、言語学習者、教育者、そして興味を持つすべての人にとって、楽しく、ユニークで視覚的に魅力的な方法で語彙を拡張するのに最適です。現在、中国語、英語、日本語の3言語に対応しています。
+
+インストール
+AI-WordCardsをインストールするには、次の手順に従ってください：
+
+GitHubリポジトリをクローンします：
+git clone https://github.com/fish0w/AI-WordCards.git
+
+プロジェクトディレクトリに移動します：
+cd AI-WordCards
+
+requirements.txtファイルを使用してプロジェクトの依存関係をインストールします：
+pip install -r requirements.txt
+
+プロジェクトの実行
+AI-WordCardsプロジェクトを起動するには、ターミナルで次のコマンドを実行します：
+
+streamlit run word_card
+
+このコマンドにより、プロジェクトが起動し、ウェブブラウザを介してアプリケーションにアクセスできます。AI-WordCardsでの探索と学習をお楽しみください！
