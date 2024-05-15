@@ -40,6 +40,4 @@ This command will launch the project and you can access the application through 
 ![Alt Text](https://i.imgur.com/criFtxg.jpg)
 
 ## few Examples:
-![Alt Text](https://imgur.com/ToWrOxs)
-![Alt Text](https://imgur.com/7NdHC6H)
-![Alt Text](https://imgur.com/1H8RV65)
+![Alt Text](https://i.imgur.com/5EHz7dp.jpg)
