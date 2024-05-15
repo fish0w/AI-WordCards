@@ -33,7 +33,7 @@ SD_API_KEY = "Your Stable Diffusion API Key"
 To start the AI-WordCards project, run the following command in the terminal:
 
 ```bash
-streamlit run word_card
+streamlit run word_card.py
 ```
 
 This command will launch the project and you can access the application through your web browser. Enjoy exploring and learning with AI-WordCards!
