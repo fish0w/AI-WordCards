@@ -1,0 +1,2 @@
+# AI-WordCards
+ AI-WordCards is an innovative project that leverages the power of GPT, StableDiffusion, and DALL-E3 to create educational and engaging word cards. The project uses Streamlit for the frontend, providing users with an intuitive, interactive and user-friendly interface. AI-WordCards is ideal for language learners, educators, and anyone interested in expanding their vocabulary in a fun, unique, and visually appealing way.
