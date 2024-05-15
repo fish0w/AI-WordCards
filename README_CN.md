@@ -13,7 +13,13 @@ cd AI-WordCards
 ```bash 
 pip install -r requirements.txt
 ```
-#运行项目
+# 重命名config_.py并填入Key。
+将config_.py重命名为config.py,打开config.py文件，并将以下内容中的Your OPENAI Key和Your Stable Diffusion API Key替换为您真实的OpenAI和Stable Diffusion的API密钥：
+```bash
+OPENAI_KEY = "Your OPENAI Key"
+SD_API_KEY = "Your Stable Diffusion API Key"
+```bash
+# 运行项目
 要启动AI-WordCards项目，请在终端中运行以下命令：
 ```bash
 streamlit run wordcard.py
