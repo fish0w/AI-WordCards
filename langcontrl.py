@@ -19,7 +19,7 @@ def load_translation(lang):
         raise
     return translate.gettext
 
-langdict = {'🇬🇧':['en',"english"],'🇨🇳':['zh','chinese'],"🇯🇵":['ja','japanese']}
+langdict = {'English':['en',"english"],'Chinese':['zh','chinese'],"Japnese":['ja','Japnese']}
 
 def select_language():
     """
@@ -29,7 +29,7 @@ def select_language():
     """
     if 'lang' not in st.session_state:
         st.session_state['lang'] = 'en'
-    lang_logo = st.sidebar.radio("Language", ["🇬🇧", "🇨🇳","🇯🇵"],horizontal=True,on_change=restart_onchange)
+    lang_logo = st.sidebar.radio("Language", ["English", "Chinese","Japnese"],horizontal=True,on_change=restart_onchange)
     st.session_state['lang']=langdict[lang_logo][0]
     lang=langdict[lang_logo][1]
     text=load_translation(st.session_state['lang'])

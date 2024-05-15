@@ -24,7 +24,7 @@ def show_pic(word_dict):
     for word,file in word_dict.items():
         word = word.replace("<", "").replace(">", "")
         if file:
-            _, cola, _ = st.columns(3)
+            _, cola, _ = st.columns([1,2,1])
             with cola:
                 st.image(file)
             with open(file, "rb") as img_file:
