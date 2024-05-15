@@ -37,5 +37,5 @@ streamlit run word_card
 ```
 
 This command will launch the project and you can access the application through your web browser. Enjoy exploring and learning with AI-WordCards!
-![Web](https://imgur.com/criFtxg)
+<blockquote class="imgur-embed-pub" lang="en" data-id="criFtxg" data-context="false"><a href="//imgur.com/criFtxg"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 ## few Examples:
