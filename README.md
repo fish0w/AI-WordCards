@@ -1,4 +1,4 @@
-English  [中文](./README_CN.md)
+English  [中文](./README_CN.md)  [日本語](./README_JP.md)
 # AI-WordCards
 
 AI-WordCards is an innovative project that leverages the power of OpenAI and StableDiffusion to create educational and engaging word cards. The project uses Streamlit for the frontend, providing users with an intuitive, interactive, and user-friendly interface. AI-WordCards is ideal for language learners, educators, and anyone interested in expanding their vocabulary in a fun, unique, and visually appealing way.
